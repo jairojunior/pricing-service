@@ -35,7 +35,7 @@
 						<configuration>
 							<failOnMissingWebXml>false</failOnMissingWebXml>
 							<outputDirectory>target</outputDirectory>
-							<warName>ROOT</warName>
+							<warName>pricing</warName>
 						</configuration>
 					</plugin>
 				</plugins>
